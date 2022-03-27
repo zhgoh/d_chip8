@@ -1,6 +1,6 @@
 CHIP-8 Interpreter in D
 =======================
-![alt text](https://raw.githubusercontent.com/zgoh/d_chip8/master/screenshots/Pong.png)
+![alt text](https://gitlab.com/zhgoh/d_chip8/-/raw/master/screenshots/Pong.png)
 
 Simple Chip-8 interpreter written in D. It uses the GLFW backend to draw the game screen. It does not have any sound support at the moment.
 
